@@ -72,7 +72,7 @@
 ## 💼 Work Experience
 
 ```
-🏢 Infosys (Bank of America)     → Technology Lead          | May 2024 – Present
+🏢 Infosys (Bank of America)     → Technology Lead           | May 2024 – Present
 🏢 Informatica                   → DevOps Engineer           | Feb 2023 – Apr 2024
 🏢 Cognizant                     → DevOps Tech Lead          | Nov 2020 – Aug 2021
 🏢 Perfexion Information Tech    → DevOps Engineer           | Jun 2017 – Oct 2020
