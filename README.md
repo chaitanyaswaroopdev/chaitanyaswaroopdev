@@ -1,13 +1,11 @@
-## Hi there 👋
-
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF6B35&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Swaroop+U;DevOps+%26+Cloud+Engineer;AWS+%7C+Kubernetes+%7C+CI%2FCD+Expert;6%2B+Years+of+Engineering+Excellence" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF6B35&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Chaitanya+Swaroop;DevOps+%26+Cloud+Engineer;AWS+%7C+Kubernetes+%7C+CI%2FCD+Expert;6%2B+Years+of+Engineering+Excellence" alt="Typing SVG" />
 </h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=swaroop-u&label=Profile%20Views&color=FF6B35&style=flat-square" alt="Profile Views" />
   <a href="https://www.linkedin.com/in/swaroop-u"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
-  <a href="mailto:chaitanya.udata129@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="/cdn-cgi/l/email-protection#f5969d949c81949b8c94db8091948194c4c7ccb59298949c99db969a98"><img src="https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=flat-square" alt="Open to Work" />
 </p>
 
@@ -23,7 +21,7 @@
 - 🎓 **M.S. Applied Computer Science** — Northwest Missouri State University
 - 📍 Based in **Plano, Texas, USA**
 - 💼 Actively seeking **Full-Time / W2 Opportunities** in Cloud & DevOps Engineering
-- 📩 Reach me at **chaitanya.udata129@gmail.com**
+- 📩 Reach me at **<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="a6c5cec7cfd2c7c8dfc788d3c2c7d2c797949fe6c1cbc7cfca88c5c9cb">[email&#160;protected]</a>**
 
 ---
 
@@ -82,19 +80,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=swaroop-u&show_icons=true&theme=dark&title_color=FF6B35&icon_color=FF6B35&text_color=ffffff&bg_color=0d1117&border_color=FF6B35" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=swaroop-u&theme=dark&background=0d1117&ring=FF6B35&fire=FF6B35&currStreakLabel=FF6B35&border=FF6B35" alt="GitHub Streak" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swaroop-u&layout=compact&theme=dark&title_color=FF6B35&text_color=ffffff&bg_color=0d1117&border_color=FF6B35" alt="Top Languages" width="40%" />
-</p>
-
----
-
 ## 🎓 Education
 
 - 🎓 **Master's in Applied Computer Science** — Northwest Missouri State University *(2021–2022)*
@@ -119,17 +104,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-Swaroop%20U-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="mailto:chaitanya.udata129@gmail.com">
+  <a href="/cdn-cgi/l/email-protection#42212a232b36232c3b236c372623362373707b02252f232b2e6c212d2f">
     <img src="https://img.shields.io/badge/Gmail-chaitanya.udata129-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🚀%20Open%20to%20Full--Time%20%2F%20W2%20Opportunities-FF6B35?style=for-the-badge" />
-</p>
-
----
-
-<p align="center">
-  <i>"Automate everything. Deliver reliably. Improve continuously."</i>
-</p>
+  <
