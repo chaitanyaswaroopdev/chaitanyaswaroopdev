@@ -89,6 +89,12 @@
 
 ## 📜 Certifications
 
+### 🌟 Primary
+- 🏆 **AWS** — Amazon Web Services (Cloud Practitioner / Solutions Architect)
+- 🏆 **Terraform** — HashiCorp Infrastructure Automation
+- 🏆 **Kubernetes** — Container Orchestration & Management
+
+### 📋 Additional
 - ✅ PbD — Privacy by Design Intermediate (DPO Official)
 - ✅ iSAFE
 - ✅ Workplace Safety
